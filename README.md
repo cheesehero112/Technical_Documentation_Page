@@ -27,11 +27,15 @@
 
 2 Screenshots of Technical Documentation Page below
 
-![Tec-Doc-Screenshot1](https://github.com/cheesehero112/Picasso_Painting/raw/main/Picasso-painting-screenshot.png)
+![Tec-Doc-Screenshot1](https://github.com/cheesehero112/Technical_Documentation_Page/raw/main/media/Tech-Doc-screenshot1.png)
 
-![Tec-Doc-Screenshot2](https://github.com/cheesehero112/Picasso_Painting/raw/main/Picasso-painting-screenshot.png)
+![Tec-Doc-Screenshot2](https://github.com/cheesehero112/Technical_Documentation_Page/raw/main/media/Tech-Doc-screenshot2.png)
 
 ## References
 
 "Technical Documentation Page" is the 14th project from FreeCodeCamp's Responsive Web Design course, and is a requirement to earn the certification. [FreeCodeCamp Responsive Wed Design]( https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+
+All the documentation in this page is taken from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
